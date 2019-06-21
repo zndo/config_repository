@@ -1,0 +1,11 @@
+
+
+
+# npc-test
+127.0.0.1    test.discovery.local
+127.0.0.1       test.config.local
+127.0.0.1      test.monitor.local
+127.0.0.1       test.sleuth.local
+127.0.0.1      test.gateway.local
+127.0.0.1     test.security.local
+127.0.0.1     test.rabbitmq.local

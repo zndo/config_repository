@@ -1,0 +1,11 @@
+
+
+
+# npc-dev
+127.0.0.1    dev.discovery.local
+127.0.0.1       dev.config.local
+127.0.0.1      dev.monitor.local
+127.0.0.1       dev.sleuth.local
+127.0.0.1      dev.gateway.local
+127.0.0.1     dev.security.local
+127.0.0.1     dev.rabbitmq.local
