@@ -2,10 +2,10 @@
 
 
 # npc-dev
-127.0.0.1    dev.discovery.local
-127.0.0.1       dev.config.local
-127.0.0.1      dev.monitor.local
-127.0.0.1       dev.sleuth.local
-127.0.0.1      dev.gateway.local
-127.0.0.1     dev.security.local
-127.0.0.1     dev.rabbitmq.local
+127.0.0.1    saas.discovery.local
+127.0.0.1       saas.config.local
+127.0.0.1      saas.monitor.local
+127.0.0.1       saas.sleuth.local
+127.0.0.1      saas.gateway.local
+127.0.0.1     saas.security.local
+127.0.0.1     saas.rabbitmq.local

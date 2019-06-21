@@ -2,10 +2,10 @@
 
 
 # npc-test
-127.0.0.1    test.discovery.local
-127.0.0.1       test.config.local
-127.0.0.1      test.monitor.local
-127.0.0.1       test.sleuth.local
-127.0.0.1      test.gateway.local
-127.0.0.1     test.security.local
-127.0.0.1     test.rabbitmq.local
+127.0.0.1    saas.discovery.local
+127.0.0.1       saas.config.local
+127.0.0.1      saas.monitor.local
+127.0.0.1       saas.sleuth.local
+127.0.0.1      saas.gateway.local
+127.0.0.1     saas.security.local
+127.0.0.1     saas.rabbitmq.local

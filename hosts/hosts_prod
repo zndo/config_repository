@@ -2,10 +2,10 @@
 
 
 # npc-prod
-127.0.0.1    prod.discovery.local
-127.0.0.1       prod.config.local
-127.0.0.1      prod.monitor.local
-127.0.0.1       prod.sleuth.local
-127.0.0.1      prod.gateway.local
-127.0.0.1     prod.security.local
-127.0.0.1     prod.rabbitmq.local
+127.0.0.1    saas.discovery.local
+127.0.0.1       saas.config.local
+127.0.0.1      saas.monitor.local
+127.0.0.1       saas.sleuth.local
+127.0.0.1      saas.gateway.local
+127.0.0.1     saas.security.local
+127.0.0.1     saas.rabbitmq.local
